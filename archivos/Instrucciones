@@ -1,0 +1,11 @@
+1.Reemplazar
+/usr/local/tomcat/webapps/share/WEB-INF/classes/alfresco/templates/com/androgogic/base/login/login.ftl
+/usr/local/tomcat/webapps/share/WEB-INF/classes/alfresco/templates/com/androgogic/base/login/forgot-password.ftl
+/usr/local/tomcat/webapps/share/WEB-INF/classes/alfresco/templates/com/androgogic/base/login/reset-password.ftl
+/usr/local/tomcat/webapps/share/WEB-INF/classes/alfresco/messages/alfresco-login-reset.properties
+------------------------------------------------------------------------------------------------------------------------------
+2.Reemplazar estilos
+/usr/local/tomcat/webapps/share/css/main.css
+/usr/local/tomcat/webapps/share/css/mater....css
+3. Reemplazar
+/usr/local/tomcat/webapps/share/WEB-INF/lib/alfresco-header-share.jar
